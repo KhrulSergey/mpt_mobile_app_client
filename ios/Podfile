@@ -1,0 +1,8 @@
+platform :ios, '9.0'
+
+target 'gisp' do
+  pod 'Firebase/Core'
+  pod 'Firebase/Messaging'
+  pod 'react-native-webview', :path => '../node_modules/react-native-webview'
+
+end

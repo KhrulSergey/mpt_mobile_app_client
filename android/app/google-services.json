@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "910801388197",
+    "firebase_url": "https://gisp-mpt-app.firebaseio.com",
+    "project_id": "gisp-mpt-app",
+    "storage_bucket": "gisp-mpt-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910801388197:android:6e617c0a2f3da454",
+        "android_client_info": {
+          "package_name": "com.minpromtorg.gisp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910801388197-0errt01aiehou7aqd2k8om991b18apul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYInJG7kjkS3xQ2iYwPlzSNFdIrdT3Myo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

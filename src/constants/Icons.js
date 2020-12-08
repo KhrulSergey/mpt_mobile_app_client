@@ -1,0 +1,17 @@
+export const back = require('../images/Back.png');
+export const checkmark = 'ios-checkmark';
+export const checkmarkEncircled = 'ios-checkmark-circle';
+export const close = require('../images/Cross.png');
+export const closeEncircled = 'ios-close-circle';
+export const del = 'ios-close';
+export const dropup = 'md-arrow-dropup';
+export const dropdown = 'md-arrow-dropdown';
+export const forward = 'ios-arrow-round-forward';
+export const logout = 'ios-log-out';
+export const menu = require('../images/Burger.png');
+export const checkboxOn = 'ios-checkbox';
+export const checkboxOff = 'ios-square-outline';
+export const radioButtonOn = 'ios-radio-button-on';
+export const radioButtonOff = 'ios-radio-button-off';
+export const graphBar = 'graph-bar';
+export const graphPie = 'graph-pie';

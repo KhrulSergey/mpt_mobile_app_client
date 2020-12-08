@@ -1,0 +1,33 @@
+export const black = '#000';
+export const white = '#FFF';
+export const blackWithOpacity = 'rgba(0, 0, 0, 0.7)'; // modal background
+export const midnight = '#001737'; // header, Menu background
+export const midnightDarker = '#00122C'; // status bar
+export const midnightWithOpacity = 'rgba(0, 23, 55, 0.9)'; // welcome page
+export const cloudBurst = '#223553'; // Menu gradient middle color
+export const downriver = '#0C2A50'; // table header, info blocks header
+export const chathamsBlue = '#183E74'; // Menu background
+export const biscay = '#1A3A66'; // charts
+export const catskillWhite = '#F1F5F8'; // general info blocks background
+export const linkWater = '#DAE8F5'; // meeting now block background
+export const botticelli = '#DFE4F0'; // borders
+export const periwinkleGray = '#CEDEED'; // border now
+export const shamrock = '#4BD0AA'; // button background, green labels
+export const paradiso = '#33807B'; // header subtitle
+export const mystic = '#E1E8EF'; // voting question header, border
+export const blueZodiac = '#0E284F'; // blue labels
+export const froly = '#F16969'; // status warning
+export const selago = '#F3F8FE'; // map popup header and border
+export const shuttleGray = '#596B7F'; // text voted
+export const mobster = '#757376'; // gray only on region
+export const manatee = '#878B97'; // gray in small captions
+
+// pie chart colors: shamrock, yellowOrange, froly, ...
+export const yellowOrange = '#FFAA40';
+export const cornflowerBlue = '#5696F3';
+export const mediumPurple = '#B153EB';
+export const corn = '#EDD705';
+export const bayOfMany = '#24477D';
+export const stiletto = '#9F3939';
+export const gray = '#868686';
+export const chateauGreen = '#45A153';
